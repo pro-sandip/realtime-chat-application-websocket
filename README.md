@@ -1,7 +1,7 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a>
-<a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="400">
-<a href="https://socket.io/" target="_blank"><img src="https://miro.medium.com/max/1400/1*tOitxCwTNcS3ESstLylmtg.png" width="400">        
-<a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" width="400">
+<a href="https://nodejs.org/en/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="200">
+<a href="https://socket.io/" target="_blank"><img src="https://miro.medium.com/max/1400/1*tOitxCwTNcS3ESstLylmtg.png" width="350">        
+<a href="https://redis.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" width="250">
 </p>
 
 <p align="center">
