@@ -11,7 +11,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## A Realtime Chat Process with Laravel & Node JS With Socket.io and redis as cache Server. 
+## A Realtime Chat Process on Laravel & Node JS With Socket.io and redis as cache Server. 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
